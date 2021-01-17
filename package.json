@@ -1,5 +1,5 @@
 {
-  "name": "graph-tool",
+  "name": "@design-master/graph-tool",
   "version": "1.0.0",
   "description": "",
   "main": ".eslintrc.js",
